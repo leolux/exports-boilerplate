@@ -1,0 +1,29 @@
+{
+  "name": "exports-boilerplate",
+  "version": "1.0.0",
+  "homepage": "http://requirejs.org/docs/commonjs.html",
+  "authors": [
+    "leolux"
+  ],
+  "description": "Bower component needed sometimes if you go without a commonjs build system like browserify or webpack",
+  "main": "dist/exports.js",
+  "keywords": [
+       "exports",
+       "commonjs",
+       "browserify",
+       "browserify",
+       "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+       "type": "git",
+       "url": "https://github.com/leolux/exports-boilerplate.git"
+   }
+}
